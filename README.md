@@ -1,7 +1,8 @@
 # Projeto-Moises
 ## Aplicativo compositor de letras inteligente - <a href="https://drive.google.com/file/d/1oQvQHpbSzsxx0cq1TwICRYpqXcWNPxTP/view?usp=sharing" target="blank">Video da aplicação</a>
 
-<p>Aplicativo que sugere palavras ou frases conforme o humor do usuário, para composição de músicas. O usuário escolhe o seu humor (tristeza, raiva, alegria) e escolhe se quer sugestões de palavras ou frases. Conforme o usuário vai escolhendo outras sugestões que se conectem com a letra existente, são exibidas.</p>
+<p>Aplicativo que sugere palavras ou frases conforme o humor do usuário, para composição de músicas. O usuário escolhe o seu humor (tristeza, raiva, alegria) e escolhe se quer sugestões de palavras ou frases. Conforme o usuário vai escolhendo outras sugestões que se conectem com a letra existente, são exibidas. Essas sugestões são feitas através de requisições à API da Empresa Moises.</p>
+<p><i>Essa Aplicação foi desenvolvida na faculdade juntamente com a Empresa Moise. E infelizmente a empresa tirou a autorização da api e não é mais possível acessar a api de sugestões.</i></p>
 
 
 <div>
