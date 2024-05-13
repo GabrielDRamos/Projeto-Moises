@@ -1,2 +1,2 @@
 # Projeto-Moises
-Aplicativo de compositor de letras inteligente
+Aplicativo compositor de letras inteligente
