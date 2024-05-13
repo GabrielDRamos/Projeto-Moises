@@ -1,5 +1,8 @@
 # Projeto-Moises
-Aplicativo compositor de letras inteligente
+## Aplicativo compositor de letras inteligente - <a href="https://drive.google.com/file/d/1oQvQHpbSzsxx0cq1TwICRYpqXcWNPxTP/view?usp=sharing" target="blank">Video da aplicação</a>
+
+<p>Aplicativo que sugere palavras ou frases conforme o humor do usuário, para composição de músicas. O usuário escolhe o seu humor (tristeza, raiva, alegria) e escolhe se quer sugestões de palavras ou frases. Conforme o usuário vai escolhendo outras sugestões que se conectem com a letra existente, são exibidas.</p>
+
 
 <div>
 Escolher humor de sugestões
@@ -28,5 +31,5 @@ Sugestão de palavras
 
 
 
-<a href="https://drive.google.com/file/d/1oQvQHpbSzsxx0cq1TwICRYpqXcWNPxTP/view?usp=sharing" target="blank">Video da aplicação</a>
+
 
